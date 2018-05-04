@@ -1,0 +1,48 @@
+header{
+	padding: 20px;
+	font-family: "Century Gothic";
+	font-size: 10px;
+	clear: both;
+}
+#small{
+	text-align: center;
+	font-family: "Arial";
+	font-size: 30px;
+	color: #FFB6C1;
+	background-color: #F0FFFF;
+}
+#line{
+	padding-top: 20px;
+}
+h1{
+	text-align: center;
+	font-family: "Arial";
+	font-size: 40px;
+	color: #FF1493;
+	background-color: #F0FFFF;
+}
+p{
+	text-align: justify;
+	font-family: "Arial";
+	font-size: 20px;
+	border: 20px;
+	color: #808080;
+	margin-left: 110px;
+	margin-right: 110px;
+	margin-top: 30px;
+}
+figure{
+	text-align: center;
+}
+.image{
+	padding: 30px;
+}
+#name{
+	margin-left: 60px;
+}
+footer{
+	background-color: pink;
+	font-family: "Arial";
+	font-size: 20px;
+	padding: 20px;
+}

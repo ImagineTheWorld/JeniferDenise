@@ -1,0 +1,35 @@
+header{ 
+	background-color: #77DCE5;
+	padding: 30px;
+	font-family: "Arial";
+	font-size: 26px;
+}
+h1{
+	color: white;
+	text-align: center;
+	margin-top: 0px;
+	font-size: 40px;
+}
+h2{
+	font-family: "Arial";
+	font-size: 30px;
+	margin-left: 55px;
+	color: #4682B4;
+}
+p{
+	font-family: "Arial";
+	margin-left: 55px;
+}
+li {
+	font-family: "Arial";
+	margin-left: 20px;
+	list-style-type: none;
+}
+
+footer {
+	font-family: "Arial";
+	background-color: #77DCE5;
+	padding: 30px;
+	text-align: center; /*Centrar las imagenes*/
+	font-size: 25px;
+}

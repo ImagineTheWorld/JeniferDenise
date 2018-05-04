@@ -1,0 +1,50 @@
+
+body{
+	background-image: url(img/pastel.jpg);
+}
+header{
+	text-align: center;
+	font-family: Arial;
+	font-size: 20px;
+	background-color: #9400D3;
+	color: white;
+	padding: 10px;
+	margin-right: 270px;
+	margin-left: 270px;
+}
+h1{
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+article{
+	background-color: #FFF5EE;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 270px;
+	margin-bottom: 20px;
+	margin-left: 270px;
+}
+p{
+	text-align: center;
+	font-family: Arial;
+	font-size: 25px;
+	background-color: #EE82EE;
+	padding: 10px;
+}
+.practicas{
+	color: white;
+	text-decoration: none;
+}
+#image{
+	padding-top: 30px;
+}
+#name{
+	text-align: center;
+	font-family: Arial;
+	font-size: 20px;
+	background-color: #FFA500;
+	color: white;
+	padding: 10px;
+	margin: 0px;
+
+}

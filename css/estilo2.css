@@ -1,0 +1,43 @@
+header{ 
+	background-color: pink;
+	padding: 30px;
+	font-family: "Arial";
+	font-size: 10px;
+}
+h1{
+	text-align: center;
+	margin: 10px;
+	font-size: 25px;
+}
+#nombre{
+	text-align: center;
+	font-family: "Arial";
+	font-size: 15px;
+	color: #191970;
+}
+.img{
+	float: left; /*Enviar imagenes a la izquierda*/ 
+	margin-right: 15px; /*Margen con respecto al texto*/
+	margin: 30px;
+}
+h2{
+	font-family: "Arial";
+	font-size: 20px;
+	color: #FF1493;
+}
+footer {
+	padding: 20px;
+	clear: both;
+}
+p{
+	font-family: "Arial";
+	font-size: 20px;
+	color: #191970;
+	text-align: justify;
+	padding-right: 100px;
+}
+#fecha{
+	font-family: "Arial";
+	font-size: 20px;
+	color:#FF1493;
+}
